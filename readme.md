@@ -6,6 +6,7 @@
 # In Progress
 [<img title="Friends-Grid" alt="Friends-Grid" src="https://corellanstoma.github.io/Assets/projects/Friends-Grid.png" width="280">](https://github.com/CorellanStoma/Friends-Grid)
 [<img title="Context-Icons" alt="Context-Icons" src="https://corellanstoma.github.io/Assets/projects/Context-Icons.png" width="280">](https://github.com/CorellanStoma/Context-Icons)
+[<img title="Channel-Names" alt="Channel-Names" src="https://corellanstoma.github.io/Assets/projects/Channel-Names.png" width="280">](https://github.com/CorellanStoma/Channel-Names)
 
 # Planned
 [<img title="Chat-Bubbles" alt="Chat-Bubbles" src="https://corellanstoma.github.io/Assets/projects/Chat-Bubbles.png" width="280">](https://github.com/CorellanStoma/Chat-Bubbles)
@@ -14,8 +15,7 @@
 <br>
 [<img title="Link-Buttons" alt="Link-Buttons" src="https://corellanstoma.github.io/Assets/projects/Link-Buttons.png" width="280">](https://github.com/CorellanStoma/Link-Buttons)
 [<img title="Channel-Icons" alt="Channel-Icons" src="https://corellanstoma.github.io/Assets/projects/Channel-Icons.png" width="280">](https://github.com/CorellanStoma/Channel-Icons)
-[<img title="Channel-Names" alt="Channel-Names" src="https://corellanstoma.github.io/Assets/projects/Channel-Names.png" width="280">](https://github.com/CorellanStoma/Channel-Names)
-<br>
 [<img title="Category-Icons" alt="Category-Icons" src="https://corellanstoma.github.io/Assets/projects/Category-Icons.png" width="280">](https://github.com/CorellanStoma/Category-Icons)
+<br>
 [<img title="Category-Names" alt="Category-Names" src="https://corellanstoma.github.io/Assets/projects/Category-Names.png" width="280">](https://github.com/CorellanStoma/Category-Names)
 [<img title="Guild-Banners" alt="Guild-Banners" src="https://corellanstoma.github.io/Assets/projects/Guild-Banners.png" width="280">](https://github.com/CorellanStoma/Guild-Banners)
