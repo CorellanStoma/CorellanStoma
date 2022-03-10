@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=1a1c1f&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12)
 
-<div align="right" width="2%";>
+<div align="left" width="2%";>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true)
 
