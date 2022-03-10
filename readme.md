@@ -2,7 +2,7 @@
 <h3 align="center">I'm Daniel and working on some CSS projects.</h3>
 
 
-<img width="49%" align="left" src="https://lanyard-profile-readme.vercel.app/api/288362986991648778">
+<img width="37.5%" align="left" src="https://lanyard-profile-readme.vercel.app/api/288362986991648778">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=1a1c1f&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12)
 
