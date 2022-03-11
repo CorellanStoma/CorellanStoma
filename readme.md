@@ -9,37 +9,51 @@
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
+    <a href="https://discord.com/users/288362986991648778">
     <img width=400vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=121212"/>
+    </a>
     <br><br/>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
     <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
+    </a>
     <br><br/>
+    <a href="https://github.com/CreArts-Community">
     <img width=400vw align=top src="https://github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
+    </a>
     <br><br/>
+    <a href="https://github.com/CreArts-Community/CreArts-Discord">
     <img width=400vw align=top src="https://github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    </a>
     <br><br/>
+    <a href="https://github.com/CreArts-Community/Friends-Grid">
     <img width=400vw align=top src="https://github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Friends-Grid&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    </a>
     <br><br/>
+    <a href="https://github.com/CreArts-Community/Context-Icons">
     <img width=400vw align=top src="https://github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Context-Icons&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    </a>
     <br><br/>
+    <a href="https://github.com/CreArts-Community/Settings-Icons">
     <img width=400vw align=top src="https://github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    </a>
   </div>
 </div>
 
 <div align="left">
 
-## Learning
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-
-## Software
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=flat)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=flat)
-![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=flat)
+## Skills
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=flat)
+
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=flat)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=flat)
+![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=flat)
+  
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
 </div>
