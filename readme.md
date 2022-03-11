@@ -9,11 +9,11 @@
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
-    <img width=40% align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=121212"/>
+    <img width=400vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=121212"/>
     <br><br/>
-    <img width=40% align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
+    <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
     <br><br/>
-    <img width=40% align=top src="https://github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
+    <img width=400vw align=top src="https://github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
   </div>
 </div>
 
