@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 👋, I'm Corellan</h2>
+## Hello there!
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
@@ -17,10 +17,7 @@
   </div>
 </div>
 
-
 <div align="left">
-
-
 
 ## Learning
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -36,6 +33,5 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=flat)
-
 
 </div>
