@@ -5,10 +5,9 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/CorellanStoma)
-[![Patreon](https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=fff&style=flat)](https://github.com/CorellanStoma)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
 [![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
 
 <div align="left";>
   
