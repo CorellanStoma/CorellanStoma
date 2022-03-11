@@ -1,4 +1,4 @@
-## Hello there!
+## Hello there! 👋 I'm Daniel
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
@@ -6,6 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
 [![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
+
+> I'm a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord). In my free time I like to play some video games or listen to music.
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
