@@ -48,7 +48,7 @@
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CorellanStoma">
-      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible)](https://git.io/typing-svg"/>
+      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
     </a>
   </div>
 </div>
