@@ -7,9 +7,7 @@
 [![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CD0952&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
-
 
 > I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord).
 
