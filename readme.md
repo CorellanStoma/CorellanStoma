@@ -39,9 +39,15 @@
     <a href="https://github.com/CreArts-Community/Settings-Icons">
     <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     <br><br/>
+    <a href="https://github.com/CorellanStoma">
+    <img width=400vw align=top src="https://github-readme-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069&date_format=d F[, Y]"/>
+    </a>
+<!---
+    <br><br/>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
     <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
     </a>
+--->
   </div>
 </div>
 <div align="left">
