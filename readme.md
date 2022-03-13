@@ -15,12 +15,13 @@
     <img width=400vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=121212"/>
     </a>
     <br><br/>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
-    <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
-    </a>
-    <br><br/>
     <a href="https://github.com/CreArts-Community">
     <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
+    </a>
+    </a>
+    <br><br/>
+    <a href="https://wakatime.com/@CorellanStoma">
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
@@ -37,14 +38,12 @@
     <br><br/>
     <a href="https://github.com/CreArts-Community/Settings-Icons">
     <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
-    </a>
     <br><br/>
-    <a href="https://wakatime.com/@CorellanStoma">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
+    <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
     </a>
   </div>
 </div>
-
 <div align="left">
 
 ## Knowledge
