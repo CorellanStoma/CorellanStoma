@@ -2,7 +2,7 @@
   <div style="display: flex; align-items: flex-start;">
 <!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://discord.com/users/288362986991648778">
-      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+profile!"/>
+      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+profile!"/>
     </a>
   <br><br/>
 <!-- Lanyard Profile Readme by cnrad - https://github.com/cnrad/lanyard-profile-readme -->
@@ -48,7 +48,7 @@
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CorellanStoma">
-      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
+      <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
     </a>
   </div>
 </div>
