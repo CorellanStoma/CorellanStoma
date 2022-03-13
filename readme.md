@@ -12,32 +12,32 @@
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
     <a href="https://discord.com/users/288362986991648778">
-    <img width=400vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=121212"/>
+    <img width=400vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=2E343E"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
     </a>
     </a>
     <br><br/>
     <a href="https://wakatime.com/@CorellanStoma">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Code Stats"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Code Stats"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/Friends-Grid">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Friends-Grid&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Friends-Grid&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/Context-Icons">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Context-Icons&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Context-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/Settings-Icons">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     <br><br/>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
     <img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
