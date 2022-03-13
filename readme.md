@@ -1,14 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CD0952&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/CorellanStoma)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
-[![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
-[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
-
-> I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord).
-
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
     <a href="https://discord.com/users/288362986991648778">
@@ -68,3 +59,25 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
 </div>
+
+
+
+
+
+
+
+
+
+
+## Social
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/CorellanStoma)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
+[![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
+
+
+
+> I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord).
