@@ -7,7 +7,7 @@
 [![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
 
-> I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord). In my free time I like to play some video games or listen to music.
+> I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord).
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
