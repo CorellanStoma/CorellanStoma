@@ -21,7 +21,7 @@
     </a>
     <br><br/>
     <a href="https://wakatime.com/@CorellanStoma">
-    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <img width=400vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=121212&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Code Stats"/>
     </a>
     <br><br/>
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
