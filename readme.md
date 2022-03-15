@@ -40,13 +40,12 @@
       <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
   <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
+<!-- Github Readme Streak Stats DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a href="https://github.com/CorellanStoma">
       <img width=420vw align=top src="https://github-readme-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
     </a>
-  </div>
   <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
+<!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/CorellanStoma">
       <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
     </a>
@@ -54,38 +53,33 @@
 </div>
 
 ## Social
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://discord.com/users/288362986991648778)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/CorellanStoma)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://www.instagram.com/danielklingel.design)
-[![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=flat)](https://www.artstation.com/danielklingeldesign)
-[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=flat)](https://www.behance.net/danielklingeldesign)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/288362986991648778)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=for-the-badge)](https://open.spotify.com/user/corellanstoma?si=b57709cb894f4473)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/CorellanStoma)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/danielklingel.design)
+[![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=for-the-badge)](https://www.artstation.com/danielklingeldesign)
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/danielklingeldesign)
 
 ## Knowledge
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=flat)
+![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=for-the-badge)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=for-the-badge)
+![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=for-the-badge)
 
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=flat)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=flat)
-![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=flat)
-  
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=fff&style=for-the-badge)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
 
-</div>
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)
 
 
+## Languages
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 
-<!---
-> I'm Daniel a digital designer living in Germany. Most of my Projects can be found on my organization [CreArts-Community](https://github.com/CreArts-Community) one of my main projects is [CreArts-Discord](https://github.com/CreArts-Community/CreArts-Discord).
 
-<br><br/>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&redirect=true">
-<img width=400vw align=top src="https://spotify-github-profile.vercel.app/api/view?uid=corellanstoma&cover_image=true&theme=compact"/>
-</a>
---->
