@@ -45,6 +45,11 @@
       <img width=420vw align=top src="https://github-readme-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
     </a>
   <br><br/>
+<!-- Spotify Recently Played Readme by JeffreyCA - https://github.com/JeffreyCA/spotify-recently-played-readme -->
+    <a href="https://open.spotify.com/user/corellanstoma?si=c1e25550aae04b0d">
+      <img width=420vw align=top src="https://spotify-recently-played-readme.vercel.app/api?user=corellanstoma&count=3"/>
+    </a>
+  <br><br/>
 <!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/CorellanStoma">
       <img width=420vw align=top src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
