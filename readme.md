@@ -42,7 +42,7 @@
   <br><br/>
 <!-- Github Readme Streak Stats DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a href="https://github.com/CorellanStoma">
-      <img width=420vw align=top src="https://github-readme-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
+      <img width=420vw align=top src="https://corellanstoma-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
     </a>
   <br><br/>
 <!-- Spotify Recently Played Readme by JeffreyCA - https://github.com/JeffreyCA/spotify-recently-played-readme -->
