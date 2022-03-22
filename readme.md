@@ -1,3 +1,10 @@
+<!-- &labelColor=2e343e&color=%23CD0952&style=for-the-badge -->
+
+## Welcome to my Profile!
+![GitHub User's stars](https://img.shields.io/github/stars/CorellanStoma?affiliations=COLLABORATOR&labelColor=2e343e&color=%23CD0952&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/CorellanStoma?labelColor=2e343e&color=%23CD0952&style=for-the-badge)
+
+
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
 <!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -12,17 +19,17 @@
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Stats Card) -->
     <a href="https://github.com/CreArts-Community">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12&role=OWNER,COLLABORATOR"/>
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&custom_title=My Stats&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12&role=OWNER,COLLABORATOR"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Languages) -->
     <a href="https://github.com/CreArts-Community">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/top-langs/?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&custom_title=Languages&langs_count=8&role=OWNER,COLLABORATOR"/>
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/top-langs/?username=CorellanStoma&custom_title=Used Languages&card_width=420vw&layout=compact&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=8&role=OWNER,COLLABORATOR"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Wakatime Stats Card) -->
     <a href="https://wakatime.com/@CorellanStoma">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Stats"/>
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Coding Time"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
@@ -48,11 +55,6 @@
 <!-- Github Readme Streak Stats DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
     <a href="https://github.com/CorellanStoma">
       <img width=420vw align=top src="https://corellanstoma-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
-    </a>
-  <br><br/>
-<!-- Spotify Recently Played Readme by JeffreyCA - https://github.com/JeffreyCA/spotify-recently-played-readme -->
-    <a href="https://open.spotify.com/user/corellanstoma?si=c1e25550aae04b0d">
-      <img width=420vw align=top src="https://spotify-recently-played-readme.vercel.app/api?user=corellanstoma&count=3"/>
     </a>
   <br><br/>
 <!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
