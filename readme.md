@@ -10,14 +10,19 @@
       <img width=420vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=2E343E"/>
     </a>
   <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (GitHub Stats Card) -->
+<!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Stats Card) -->
     <a href="https://github.com/CreArts-Community">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12" />
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12&role=OWNER,COLLABORATOR"/>
+    </a>
+  <br><br/>
+<!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Languages) -->
+    <a href="https://github.com/CreArts-Community">
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/top-langs/?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&custom_title=Languages&langs_count=8&role=OWNER,COLLABORATOR"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Wakatime Stats Card) -->
     <a href="https://wakatime.com/@CorellanStoma">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Code Stats"/>
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Stats"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
@@ -85,6 +90,3 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
-
-
-
