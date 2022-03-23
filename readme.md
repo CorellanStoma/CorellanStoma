@@ -85,7 +85,6 @@
 [![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/photo/)
 [![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/designer/)
 [![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/publisher/)
-
 [![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/en/)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
