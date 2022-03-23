@@ -77,16 +77,16 @@
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 
 ## Learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
 
 ## Programs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=for-the-badge)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=for-the-badge)
-![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=for-the-badge)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/photo/)
+[![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/designer/)
+[![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/publisher/)
 
-![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)
+[![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/en/)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
