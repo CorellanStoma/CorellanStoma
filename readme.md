@@ -16,39 +16,9 @@
       <img width=420vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=2E343E"/>
     </a>
   <br><br/>
-<!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Stats Card) -->
-    <a href="https://github.com/CreArts-Community">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api?username=CorellanStoma&custom_title=My Stats&show_icons=true&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&icon_color=CD0952&border_radius=12&role=OWNER,COLLABORATOR"/>
-    </a>
-  <br><br/>
-<!-- GitHub Readme Stats by anuraghazra & developStorm - https://github.com/developStorm/github-readme-stats (GitHub Languages) -->
-    <a href="https://github.com/CreArts-Community">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/top-langs/?username=CorellanStoma&custom_title=Used Languages&card_width=420vw&layout=compact&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=8&role=OWNER,COLLABORATOR"/>
-    </a>
-  <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Wakatime Stats Card) -->
-    <a href="https://wakatime.com/@CorellanStoma">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/wakatime?username=CorellanStoma&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12&langs_count=6&layout=compact&custom_title=Coding Time"/>
-    </a>
-  <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
       <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
-    </a>
-  <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
-    <a href="https://github.com/CreArts-Community/Friends-Grid">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Friends-Grid&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
-    </a>
-  <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
-    <a href="https://github.com/CreArts-Community/Context-Icons">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Context-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
-    </a>
-  <br><br/>
-<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
-    <a href="https://github.com/CreArts-Community/Settings-Icons">
-      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=Settings-Icons&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
   <br><br/>
 <!-- Github Readme Streak Stats DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
