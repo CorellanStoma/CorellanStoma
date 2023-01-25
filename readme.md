@@ -6,11 +6,6 @@
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
-<!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://discord.com/users/288362986991648778">
-      <img width=420vw align=top src="https://corellanstoma-readme-typing.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Hello+there!;Welcome+to+my+profile!"/>
-    </a>
-  <br><br/>
 <!-- Lanyard Profile Readme by cnrad - https://github.com/cnrad/lanyard-profile-readme -->
     <a href="https://discord.com/users/288362986991648778">
       <img width=420vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=2E343E"/>
@@ -19,16 +14,6 @@
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
       <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
-    </a>
-  <br><br/>
-<!-- Github Readme Streak Stats DenverCoder1 - https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <a href="https://github.com/CorellanStoma">
-      <img width=420vw align=top src="https://corellanstoma-streak-stats.herokuapp.com/?user=CorellanStoma&hide_border=true&background=2E343E&stroke=393e48&ring=CD0952&fire=CD0952&currStreakNum=C0C6DB&sideNums=C0C6DB&currStreakLabel=CD0952&sideLabels=C0C6DB&dates=586069"/>
-    </a>
-  <br><br/>
-<!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/CorellanStoma">
-      <img width=420vw align=top src="https://corellanstoma-readme-typing.herokuapp.com?size=20&duration=4000&color=CD0952&background=FFFFFF00&center=true&vCenter=true&lines=Good+Design...;is+innovative;makes+a+product+useful;is+aesthetic;makes+a+product+understandable;is+unobtrusive;is+honest;is+long-lasting;is+thorough+down+to+the+last+detail;is+environmentally+friendly;is+as+little+design+as+possible"/>
     </a>
   </div>
 </div>
