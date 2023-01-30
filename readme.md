@@ -15,6 +15,11 @@
     <a href="https://github.com/CreArts-Community/CreArts-Discord">
       <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Discord&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
+  <br><br/>
+<!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
+    <a href="https://github.com/CorellanStoma/ReGame-DE">
+      <img width=420vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=ReGame-DE&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    </a>
   </div>
 </div>
 
@@ -26,14 +31,11 @@
 [![ArtStation Badge](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=fff&style=for-the-badge)](https://www.artstation.com/danielklingeldesign)
 [![Behance Badge](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge)](https://www.behance.net/danielklingeldesign)
 
-## Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+## Operating System
 
-## Learning
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
+![Zorin Badge](https://img.shields.io/badge/Zorin-0CC1F3?logo=zorin&logoColor=fff&style=for-the-badge)
 
 ## Programs
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
@@ -45,3 +47,17 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
+
+## Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+## Learning
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+
+## Want to Learn
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
