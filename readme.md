@@ -39,14 +39,16 @@
 
 ## Programs
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)](https://code.visualstudio.com/)
+[![Rhinoceros](https://img.shields.io/badge/Rhinoceros-000?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/en/)
 [![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-7E4DD2?logo=affinityphoto&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/photo/)
 [![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1B72BE?logo=affinitydesigner&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/designer/)
 [![Affinity Publisher](https://img.shields.io/badge/Affinity%20Publisher-C9284D?logo=affinitypublisher&logoColor=fff&style=for-the-badge)](https://affinity.serif.com/en-us/publisher/)
-[![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010?logo=rhinoceros&logoColor=fff&style=for-the-badge)](https://www.rhino3d.com/en/)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-19a2f4?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-ff9a1f?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-ff3064?logo=adobeindesign&logoColor=fff&style=for-the-badge)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9293f4?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
+![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-ff5ef3?logo=adobexd&logoColor=fff&style=for-the-badge)
+
 
 ## Languages
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
