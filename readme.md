@@ -17,8 +17,8 @@
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
-    <a href="https://github.com/CorellanStoma/ReGame-DE">
-      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=ReGame-DE&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+    <a href="https://github.com/CorellanStoma/CreArts-Obsidian">
+      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Obsidian&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
   </div>
 </div>
