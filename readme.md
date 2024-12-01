@@ -13,12 +13,12 @@
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CreArts-Community/CreArts-Obsidian">
-      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Obsidian&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CreArts-Community&repo=CreArts-Obsidian&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
   <br><br/>
 <!-- GitHub Readme Stats by anuraghazra - https://github.com/anuraghazra/github-readme-stats (Extra Pins) -->
     <a href="https://github.com/CreArts-Community/CreArts-Obsidian-Vault">
-      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CorellanStoma&repo=CreArts-Obsidian-Vault&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
+      <img width=480vw align=top src="https://corellanstoma-github-readme-stats.vercel.app/api/pin/?username=CreArts-Community&repo=CreArts-Obsidian-Vault&hide_border=true&bg_color=2E343E&title_color=CD0952&text_color=C0C6DB&border_radius=12"/>
     </a>
   </div>
 </div>
